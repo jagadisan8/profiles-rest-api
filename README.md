@@ -1,3 +1,3 @@
 # profiles REST API
 
-profiles REST API course code
+profiles REST API source code
